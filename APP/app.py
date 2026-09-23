@@ -47,7 +47,7 @@ FEATURE_IMPORTANCE_PATH = (
 # 3. DOCKER API URL
 # ------------------------------------------------------------
 
-API_URL = "http://api:8000/predict"
+API_URL =  "https://finance-fraud-api.onrender.com/predict"
 
 
 # ------------------------------------------------------------
